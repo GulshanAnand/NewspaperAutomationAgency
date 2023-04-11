@@ -1,0 +1,44 @@
+[
+   {
+      "Language": "Telugu",
+      "PaperID": "601",
+      "PaperName": "Magazine1",
+      "PaperType": "magazine",
+      "Price": 10
+   },
+   {
+      "Language": "Hindi",
+      "PaperID": "701",
+      "PaperName": "Newspaper1",
+      "PaperType": "newspaper",
+      "Price": 4.5
+   },
+   {
+      "Language": "English",
+      "PaperID": "801",
+      "PaperName": "Magazine2",
+      "PaperType": "magazine",
+      "Price": 12.5
+   },
+   {
+      "Language": "English",
+      "PaperID": "802",
+      "PaperName": "Newspaper2",
+      "PaperType": "newspaper",
+      "Price": 5.0
+   },
+   {
+      "Language": "Hindi",
+      "PaperID": "703",
+      "PaperName": "Newspaper3",
+      "PaperType": "newspaper",
+      "Price": 4.75
+   },
+   {
+      "Language": "Hindi",
+      "PaperID": "702",
+      "PaperName": "HindiPaper",
+      "PaperType": "newspaper",
+      "Price": 4.8
+   }
+]
